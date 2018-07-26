@@ -1,2 +1,2 @@
 # slackBots
-Slack Bots for fun and work. 
+Slack apps and bots for productivity and whatever else.   
